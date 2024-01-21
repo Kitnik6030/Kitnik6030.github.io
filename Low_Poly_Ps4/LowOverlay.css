@@ -228,7 +228,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(-dpadLow.svg);
+    background: url(dpadLow.svg);
     position: absolute;
 }
 
